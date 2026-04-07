@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Lucão! 👋</h1>
+<h1 align="center">Hi, I'm Lucas! 👋</h1>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVkaWR0ODl1bTdiNXRudHJna3I4cHl6YXpncnZpeTZteGJqZWVwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" alt="Mario GIF" width="150"/>
