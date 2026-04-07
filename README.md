@@ -1,65 +1,54 @@
-<h1 align="center">👋 Olá, eu sou o Lucas</h1>
+<h1 align="center">Yo, I'm Lucão! 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F0FF&center=true&width=600&lines=Fullstack+Developer;Java+%7C+Spring+Boot;Angular+%7C+React+%7C+Ionic;Microservices+%7C+Clean+Architecture;Docker+%7C+Postgres+%7C+NoSQL" alt="Typing SVG"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVkaWR0ODl1bTdiNXRudHJna3I4cHl6YXpncnZpeTZteGJqZWVwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" alt="Mario GIF" width="150"/>
 </p>
 
 <p align="center">
-💻 Desenvolvedor Full Stack | Microserviços | Clean Architecture | SOLID
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F0FF&center=true&width=650&lines=Full+Stack+Dev+%7C+Backend+Heavy;Java+%2B+Spring+Boot+Addict;Building+Scalable+Stuff;Pixel+Art+Lover;Clean+Code+Enthusiast" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  I can handle the front, but the <b>backend</b> is where I truly feel at home. <br>
+  I'm all about clean architecture, solving complex puzzles, and strong coffee. ☕
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ What I'm good at
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**My "Main" Gear (Backend):** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
----
-
-## 🌟 Projetos em destaque
-
-### ⌨️ Banco de Horas (Backend)
-- Spring Boot, PostgreSQL, Microserviços
-- Controle completo de jornada, saldo de horas e relatórios
-- Implementação de Clean Architecture e testes automatizados
-
-### 🌐 Portal do Usuário (Frontend)
-- Angular & Ionic
-- Integração com APIs RESTful e microserviços
-- Interface responsiva e experiência otimizada
-
-### ⚡ Outros projetos
-- Node.js + MongoDB para APIs rápidas  
-- Automatizações e ferramentas internas para workflow do time
+**Also in the toolbelt:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### 🎨 Beyond the Code
+
+When I'm not debugging or building APIs, you'll probably find me:
+* **👾 Loving Pixel Art:** I have a huge weak spot for retro aesthetics and pixel-perfect designs.
+* **🎮 Gaming:** Exploring new worlds or just chilling with some classics.
+* **📺 Series Binging:** Always looking for the next great story to watch.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lcs-marinho&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-marinho&layout=compact&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
----
-
 <p align="center">
-Feito com 💻, ☕ e muita paixão por código!
+  <i>"If it works, optimize it. If it doesn't, refactor it."</i> 🛠️⚡
 </p>
