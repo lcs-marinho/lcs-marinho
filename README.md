@@ -37,13 +37,6 @@ When I'm not debugging or building APIs, you'll probably find me:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lcs-marinho&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-marinho&layout=compact&theme=radical" />
-</p>
-
 <p align="center">
   <i>"If it works, optimize it. If it doesn't, refactor it."</i> 🛠️⚡
 </p>
