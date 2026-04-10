@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ What I'm good at
+### 🛠️ Main Stack
 
 **My "Main" Gear (Backend):** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -31,7 +31,7 @@
 ### 🎨 Beyond the Code
 
 When I'm not debugging or building APIs, you'll probably find me:
-* **👾 Loving Pixel Art:** I have a huge weak spot for retro aesthetics and pixel-perfect designs.
+* **👾 Pixel Art:** I’ve got a real thing for retro visuals.
 * **🎮 Gaming:** Exploring new worlds or just chilling with some classics.
 * **📺 Series Binging:** Always looking for the next great story to watch.
 
