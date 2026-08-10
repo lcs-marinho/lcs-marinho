@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas! 👋</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVkaWR0ODl1bTdiNXRudHJna3I4cHl6YXpncnZpeTZteGJqZWVwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" alt="Mario GIF" width="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc4aTI0dHE5ejZnazNpNW0wODJ0a2NxaThlNW90dWdyNml6ZjQyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="PACMAN GIF" width="150"/>
 </p>
 
 <p align="center">
